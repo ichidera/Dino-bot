@@ -1,5 +1,9 @@
 # 🦖 Dino Bot
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Dino Bot playing Chrome T-Rex" width="600">
+</p>
+
 > An intelligent, autonomous runner bot for the Chrome T-Rex game powered by custom jump-arc physics planning and Playwright automation.
 
 ---
