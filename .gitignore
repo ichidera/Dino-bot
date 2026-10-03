@@ -1,0 +1,28 @@
+# Python & Byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Dino Bot Specific
+.trex_bot_profile/
+*.log
+
+# Playwright & Browsers
+.playwright/
+test-results/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
