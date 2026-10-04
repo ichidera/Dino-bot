@@ -93,7 +93,7 @@ python3 --version
 Clone this repository or download the project files into a folder on your computer:
 
 ```bash
-git clone https://github.com/your-username/dino-bot.git
+git clone https://github.com/ichidera/Dino-bot.git
 cd dino-bot
 ```
 
