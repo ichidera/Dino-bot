@@ -94,7 +94,7 @@ Clone this repository or download the project files into a folder on your comput
 
 ```bash
 git clone https://github.com/ichidera/Dino-bot.git
-cd dino-bot
+cd Dino-bot
 ```
 
 *(If you downloaded a `.zip` file, extract it and open your terminal inside that folder).*
